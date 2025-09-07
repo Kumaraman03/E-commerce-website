@@ -1,0 +1,100 @@
+product_name,price,description,category,manufacturer,color,size,dimensions,image_url
+Stylish Summer Dress,49.99,"Elegant floral print, lightweight fabric, perfect for summer",Clothing,Fashionista,Floral,"S, M, L",30 x 20 x 5 cm,https://lipsum.app/400x600
+Classic Blue Jeans,79.99,"Classic blue jeans, straight leg, comfortable fit",Clothing,DenimCo,Blue,"28, 30, 32, 34",30 x 25 x 7 cm,https://lipsum.app/300x400
+Leather Ankle Boots,99.99,Genuine leather ankle boots with side zipper,Footwear,LeatherCraft,Brown,"7, 8, 9, 10",25 x 20 x 10 cm,https://lipsum.app/300x300
+Summer Maxi Dress,69.99,Flowy maxi dress with adjustable straps,Clothing,BohoChic,Red,"S, M, L, XL",35 x 25 x 5 cm,https://lipsum.app/400x600
+Men's Casual Shirt,39.99,"Short-sleeve casual shirt, button-down",Clothing,UrbanStyle,Navy,"M, L, XL, XXL",30 x 20 x 4 cm,https://lipsum.app/300x400
+Women's Running Shoes,89.99,Lightweight running shoes with breathable mesh,Footwear,ActiveFit,Pink,"6, 7, 8, 9",30 x 20 x 12 cm,https://lipsum.app/300x200
+Denim Jacket,59.99,Classic denim jacket with button closure,Clothing,DenimCo,Blue,"S, M, L, XL",35 x 30 x 8 cm,https://lipsum.app/400x500
+High Heels,79.99,Elegant high heels with pointed toe,Footwear,GlamourShoes,Black,"5, 6, 7, 8",20 x 15 x 10 cm,https://lipsum.app/250x300
+Striped T-Shirt,29.99,"Classic striped t-shirt, round neck",Clothing,BasicWear,Black/White,"S, M, L, XL",25 x 15 x 3 cm,https://lipsum.app/250x250
+Men's Dress Shoes,129.99,"Genuine leather dress shoes, lace-up",Footwear,FormalElegance,Black,"8, 9, 10, 11",30 x 20 x 10 cm,https://lipsum.app/300x300
+Floral Print Blouse,39.99,Floral print blouse with V-neck,Clothing,ChicStyle,Floral,"S, M, L",25 x 15 x 4 cm,https://lipsum.app/300x250
+Ankle Boots Suede,89.99,Suede ankle boots with buckle detail,Footwear,BohoChic,Beige,"6, 7, 8, 9",25 x 20 x 10 cm,https://lipsum.app/300x300
+Men's Chinos,49.99,"Slim fit chinos, cotton blend",Clothing,UrbanStyle,Khaki,"30, 32, 34, 36",30 x 25 x 7 cm,https://lipsum.app/300x400
+Women's Sandals,49.99,Leather sandals with adjustable straps,Footwear,SummerFeet,Brown,"5, 6, 7, 8",20 x 15 x 8 cm,https://lipsum.app/250x200
+Knit Sweater,59.99,Soft knit sweater with round neck,Clothing,CozyKnits,Gray,"S, M, L, XL",30 x 20 x 6 cm,https://lipsum.app/250x200
+Men's Loafers,99.99,Leather loafers with slip-on design,Footwear,FormalElegance,Brown,"7, 8, 9, 10",25 x 15 x 10 cm,https://lipsum.app/300x300
+Wrap Dress,69.99,Elegant wrap dress with tie waist,Clothing,ChicStyle,Navy,"S, M, L, XL",30 x 25 x 5 cm,https://lipsum.app/400x600
+Running Shoes Lightweight,79.99,Lightweight running shoes with breathable mesh,Footwear,ActiveFit,Black,"6, 7, 8, 9",30 x 20 x 12 cm,https://lipsum.app/300x200
+Polo Shirt,39.99,Classic polo shirt with short sleeves,Clothing,BasicWear,White,"M, L, XL, XXL",25 x 15 x 4 cm,https://lipsum.app/300x300
+High Waist Jeans,69.99,"High waist skinny jeans, stretch denim",Clothing,DenimCo,Dark Blue,"26, 28, 30, 32",30 x 25 x 7 cm,https://lipsum.app/300x400
+Suede Mules,69.99,Suede mules with open toe,Footwear,GlamourShoes,Nude,"5, 6, 7, 8",20 x 15 x 8 cm,https://lipsum.app/250x200
+Off-Shoulder Top,34.99,Off-shoulder top with ruffle detail,Clothing,BohoChic,Pink,"S, M, L",25 x 15 x 3 cm,https://lipsum.app/300x250
+Men's Oxford Shoes,109.99,Leather oxford shoes with lace-up closure,Footwear,FormalElegance,Black,"8, 9, 10, 11",30 x 20 x 10 cm,https://lipsum.app/300x300
+Printed Maxi Skirt,49.99,Printed maxi skirt with elastic waist,Clothing,ChicStyle,Print,"S, M, L, XL",35 x 25 x 5 cm,https://lipsum.app/400x600
+Leather Loafers,89.99,Leather loafers with slip-on design,Footwear,CasualElegance,Brown,"7, 8, 9, 10",25 x 15 x 10 cm,https://lipsum.app/300x300
+V-Neck Sweater,49.99,"V-neck sweater, fine knit",Clothing,CozyKnits,Navy,"S, M, L, XL",30 x 20 x 6 cm,https://lipsum.app/250x200
+Women's Espadrilles,59.99,Canvas espadrilles with ankle tie,Footwear,SummerFeet,White,"5, 6, 7, 8",20 x 15 x 8 cm,https://lipsum.app/250x200
+Ripped Jeans,54.99,"Ripped skinny jeans, distressed denim",Clothing,DenimCo,Light Blue,"26, 28, 30, 32",30 x 25 x 7 cm,https://lipsum.app/300x400
+Satin Heels,89.99,Satin high heels with crystal detail,Footwear,GlamourShoes,Silver,"5, 6, 7, 8",20 x 15 x 10 cm,https://lipsum.app/250x300
+Button-Down Shirt,44.99,Long sleeve button-down shirt,Clothing,UrbanStyle,Light Blue,"M, L, XL, XXL",25 x 15 x 4 cm,https://lipsum.app/300x300
+Slip-On Sneakers,69.99,Canvas slip-on sneakers,Footwear,CasualWear,White,"6, 7, 8, 9",30 x 20 x 12 cm,https://lipsum.app/300x200
+Pencil Skirt,49.99,Classic pencil skirt,Clothing,ChicStyle,Black,"S, M, L",30 x 20 x 5 cm,https://lipsum.app/400x600
+Leather Boots,119.99,Knee-high leather boots,Footwear,LeatherCraft,Black,"6, 7, 8, 9",25 x 20 x 10 cm,https://lipsum.app/300x300
+Corduroy Jacket,69.99,Corduroy jacket with button closure,Clothing,BohoChic,Brown,"S, M, L, XL",35 x 30 x 8 cm,https://lipsum.app/400x500
+Ballet Flats,59.99,Leather ballet flats,Footwear,GlamourShoes,Pink,"5, 6, 7, 8",20 x 15 x 8 cm,https://lipsum.app/250x200
+Crew Neck Sweater,44.99,Classic crew neck sweater,Clothing,BasicWear,Gray,"S, M, L, XL",25 x 15 x 3 cm,https://lipsum.app/250x250
+Men's Dress Loafers,139.99,Premium leather dress loafers,Footwear,FormalElegance,Dark Brown,"8, 9, 10, 11",30 x 20 x 10 cm,https://lipsum.app/300x300
+A-Line Skirt,54.99,A-line skirt with button detail,Clothing,ChicStyle,Olive,"S, M, L",30 x 20 x 5 cm,https://lipsum.app/400x600
+Suede Ankle Boots,94.99,Suede ankle boots with block heel,Footwear,BohoChic,Taupe,"6, 7, 8, 9",25 x 20 x 10 cm,https://lipsum.app/300x300
+Men's Cargo Pants,59.99,Relaxed fit cargo pants,Clothing,UrbanStyle,Green,"30, 32, 34, 36",30 x 25 x 7 cm,https://lipsum.app/300x400
+Women's Gladiator Sandals,64.99,Leather gladiator sandals,Footwear,SummerFeet,Gold,"5, 6, 7, 8",20 x 15 x 8 cm,https://lipsum.app/250x200
+Cashmere Scarf,79.99,Soft cashmere scarf,Accessories,CozyKnits,Camel,180 x 30 x 2 cm,https://lipsum.app/300x100,
+Leather Belt,49.99,Genuine leather belt with buckle,Accessories,FormalElegance,Black,"80, 90, 100, 110 cm",120 x 4 x 3 cm,https://lipsum.app/100x50
+Straw Hat,39.99,Wide brim straw hat,Accessories,BohoChic,Natural,40 x 40 x 15 cm,https://lipsum.app/300x300,
+Silk Scarf,69.99,Printed silk scarf,Accessories,ChicStyle,Print,90 x 90 x 1 cm,https://lipsum.app/200x200,
+Baseball Cap,29.99,Classic baseball cap,Accessories,UrbanStyle,Navy,20 x 15 x 10 cm,https://lipsum.app/150x100,
+Winter Gloves,34.99,Warm knit winter gloves,Accessories,CozyKnits,Gray,25 x 10 x 5 cm,https://lipsum.app/100x150,
+Sunglasses Classic,99.99,Classic sunglasses with UV protection,Accessories,GlamourShades,Black,15 x 5 x 5 cm,https://lipsum.app/150x50,
+Fashion Backpack,79.99,Stylish fashion backpack,Accessories,ChicStyle,Beige,30 x 25 x 10 cm,https://lipsum.app/300x300,
+Leather Wallet,59.99,Genuine leather wallet,Accessories,FormalElegance,Brown,12 x 10 x 2 cm,https://lipsum.app/100x75,
+Oversized Sweater,69.99,Oversized chunky knit sweater,Clothing,CozyKnits,Cream,"S, M, L, XL",30 x 25 x 8 cm,https://lipsum.app/250x200
+Boyfriend Jeans,74.99,Boyfriend fit distressed jeans,Clothing,DenimCo,Medium Blue,"28, 30, 32, 34",30 x 25 x 7 cm,https://lipsum.app/300x400
+Combat Boots,109.99,Leather combat boots with lace-up closure,Footwear,LeatherCraft,Black,"7, 8, 9, 10",25 x 20 x 15 cm,https://lipsum.app/300x300
+Floral Kimono,49.99,Flowy floral kimono,Clothing,BohoChic,Floral,"S, M, L, XL",35 x 30 x 5 cm,https://lipsum.app/400x500
+Men's Henley Shirt,39.99,Long sleeve henley shirt,Clothing,UrbanStyle,Charcoal,"M, L, XL, XXL",30 x 20 x 4 cm,https://lipsum.app/300x400
+Women's Ankle Strap Heels,89.99,Ankle strap heels,Footwear,GlamourShoes,Gold,"5, 6, 7, 8",20 x 15 x 10 cm,https://lipsum.app/250x300
+Pleated Midi Skirt,59.99,Pleated midi skirt,Clothing,ChicStyle,Emerald,"S, M, L",30 x 20 x 5 cm,https://lipsum.app/400x600
+Suede Chelsea Boots,119.99,Suede Chelsea boots,Footwear,LeatherCraft,Dark Brown,"6, 7, 8, 9",25 x 20 x 10 cm,https://lipsum.app/300x300
+Striped Turtleneck,44.99,Striped turtleneck sweater,Clothing,BasicWear,Red/White,"S, M, L, XL",25 x 15 x 3 cm,https://lipsum.app/250x250
+Men's Wingtip Shoes,149.99,Leather wingtip shoes,Footwear,FormalElegance,Burgundy,"8, 9, 10, 11",30 x 20 x 10 cm,https://lipsum.app/300x300
+Embroidered Top,49.99,Embroidered peasant top,Clothing,BohoChic,Ivory,"S, M, L",25 x 15 x 4 cm,https://lipsum.app/300x250
+Leather Riding Boots,139.99,Leather riding boots,Footwear,LeatherCraft,Black,"6, 7, 8, 9",30 x 25 x 15 cm,https://lipsum.app/300x300
+Men's Corduroy Pants,64.99,Corduroy straight leg pants,Clothing,UrbanStyle,Rust,"30, 32, 34, 36",30 x 25 x 7 cm,https://lipsum.app/300x400
+Women's Strappy Sandals,54.99,Strappy leather sandals,Footwear,SummerFeet,Silver,"5, 6, 7, 8",20 x 15 x 8 cm,https://lipsum.app/250x200
+Cashmere Wrap,129.99,Large cashmere wrap,Accessories,CozyKnits,Charcoal,200 x 70 x 2 cm,https://lipsum.app/300x200,
+Leather Crossbody Bag,99.99,Leather crossbody bag,Accessories,ChicStyle,Tan,25 x 20 x 8 cm,https://lipsum.app/200x150,
+Wide Brim Felt Hat,69.99,Wide brim felt hat,Accessories,BohoChic,Black,40 x 40 x 15 cm,https://lipsum.app/300x300,
+Printed Silk Scarf,89.99,Large printed silk scarf,Accessories,GlamourShades,Multicolor,100 x 100 x 1 cm,https://lipsum.app/250x250,
+Newsboy Cap,24.99,Classic newsboy cap,Accessories,UrbanStyle,Gray,25 x 20 x 12 cm,https://lipsum.app/150x100,
+Wool Scarf,49.99,Soft wool scarf,Accessories,CozyKnits,Burgundy,180 x 30 x 2 cm,https://lipsum.app/300x100,
+Aviator Sunglasses,119.99,Classic aviator sunglasses,Accessories,GlamourShades,Gold,14 x 5 x 5 cm,https://lipsum.app/150x50,
+Clutch Bag,79.99,Satin clutch bag,Accessories,ChicStyle,Rose Gold,20 x 10 x 5 cm,https://lipsum.app/200x100,
+Ribbed Beanie,24.99,Warm ribbed beanie,Accessories,CozyKnits,Mustard,20 x 20 x 5cm,https://lipsum.app/150x150,
+Faux Fur Stole,149.99,Luxurious faux fur stole,Accessories,GlamourShades,Ivory,180 x 30 x 10cm,https://lipsum.app/300x200,
+Wide Leg Trousers,69.99,Wide leg trousers,Clothing,ChicStyle,Navy,"S, M, L, XL",30 x 25 x 7cm,https://lipsum.app/300x400
+Leather Moto Jacket,199.99,Leather moto jacket,Clothing,LeatherCraft,Black,"S, M, L, XL",50 x 40 x 10cm,https://lipsum.app/400x500
+Plaid Flannel Shirt,49.99,Plaid flannel shirt,Clothing,BasicWear,Red/Black,"M, L, XL, XXL",30 x 25 x 5cm,https://lipsum.app/300x400
+Denim Overalls,79.99,Denim overalls,Clothing,DenimCo,Blue,"S, M, L",35 x 30 x 8cm,https://lipsum.app/400x500
+Pea Coat,149.99,Classic pea coat,Clothing,UrbanStyle,Charcoal,"S, M, L, XL",40 x 30 x 10cm,https://lipsum.app/400x500
+Silk Blouse,59.99,Silk blouse with tie neck,Clothing,ChicStyle,Champagne,"S, M, L",25 x 15 x 4cm,https://lipsum.app/300x250
+Bootcut Jeans,74.99,Bootcut jeans,Clothing,DenimCo,Dark Wash,"28, 30, 32, 34",30 x 25 x 7cm,https://lipsum.app/300x400
+Puffer Jacket,89.99,Puffer jacket,Clothing,CozyKnits,Forest Green,"S, M, L, XL",40 x 30 x 12cm,https://lipsum.app/300x400
+Mini Skirt,39.99,Denim mini skirt,Clothing,DenimCo,Light Blue,"XS, S, M",25 x 20 x 5cm,https://lipsum.app/300x400
+Off the Shoulder Dress,64.99,Off the shoulder dress,Clothing,BohoChic,White,"S, M, L",30 x 25 x 5cm,https://lipsum.app/400x600
+Leather Leggings,89.99,Stretch leather leggings,Clothing,GlamourShoes,Black,"XS, S, M, L",25 x 20 x 5cm,https://lipsum.app/250x300
+Tunic Top,44.99,Long sleeve tunic top,Clothing,BasicWear,Olive,"S, M, L, XL",25 x 15 x 3cm,https://lipsum.app/250x250
+Skinny Jeans,69.99,Skinny fit jeans,Clothing,DenimCo,Black,"26, 28, 30, 32",30 x 25 x 7cm,https://lipsum.app/300x400
+Sequin Dress,129.99,Sequin mini dress,Clothing,GlamourShoes,Gold,"XS, S, M",20 x 15 x 5cm,https://lipsum.app/250x300
+Romper,44.99,Floral print romper,Clothing,BohoChic,Pink Floral,"S, M, L",30 x 25 x 5cm,https://lipsum.app/400x600
+Hoodie,59.99,Pullover hoodie,Clothing,UrbanStyle,Gray,"S, M, L, XL",30 x 25 x 8cm,https://lipsum.app/300x300
+Bomber Jacket,79.99,Bomber jacket,Clothing,UrbanStyle,Green,"S, M, L, XL",40 x 30 x 10cm,https://lipsum.app/400x500
+Jumpsuit,89.99,Wide leg jumpsuit,Clothing,ChicStyle,Black,"S, M, L, XL",35 x 25 x 5cm,https://lipsum.app/400x600
+Cape Coat,179.99,Wool cape coat,Clothing,FormalElegance,Navy,"S, M, L, XL",40 x 30 x 12cm,https://lipsum.app/400x500
+Midi Skirt,54.99,Midi skirt,Clothing,ChicStyle,Burgundy,"S, M, L",30 x 20 x 5cm,https://lipsum.app/400x600
+Leather Pencil Skirt,99.99,Leather pencil skirt,Clothing,GlamourShoes,Black,"XS, S, M, L",30 x 20 x 5cm,https://lipsum.app/250x300
+T-Shirt Dress,39.99,Casual t-shirt dress,Clothing,BasicWear,Heather Gray,"S, M, L, XL",25 x 20 x 5cm,https://lipsum.app/300x400
+Wrap Top,44.99,Wrap top,Clothing,BohoChic,White Floral,"S, M, L",25 x 15 x 3cm,https://lipsum.app/300x250
+Cropped Tank,24.99,Cropped tank top,Clothing,SummerStyle,White,"XS, S, M, L",20 x 15 x 2cm,https://lipsum.app/200x200
+Boyfriend Blazer,89.99,Oversized boyfriend blazer,Clothing,ChicStyle,Gray,"S, M, L, XL",40 x 30 x 8cm,https://lipsum.app/400x500
